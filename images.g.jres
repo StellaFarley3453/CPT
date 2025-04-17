@@ -4,6 +4,28 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "princess_facing_down"
     },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8P//AAAAAABv1t0P//AP8Gb2P/01Pw9VYtbd/TNT81BlZtZd8z/zVRVmZj/f/f/wZmFm///fDwBvFmZmD/AAAPD//28PAAAAAABvbw8AAAAAAPDwAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "princess_facing_left"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8PAAAAAAAABvbw8AAADw//9vDwAAAG8WZmYP8ADwZmFm///fD1UVZmY/3/3/UGVm1l3zP/NVYtbd/TNT8/Bm9j/9NT8PAG/W3Q//8A8A8P//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "princess_facing_right"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAPAAAAAAAA8PbwAAAA8P//9t8PAABvZmb23f8P8BZmZj/1P/NQFmZm9jM181UWZmb2M1PzVWZmZvYzU/NQFmZm9jM18/BmZmY/9T/zAG9mZvbd/w8A8P//9t8PAAAAAPD28AAAAAAAAA8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "princess_facing_up"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "NjQwMDEwMDAxMDAwMDMwMDAwMDAwMDA1MDUwMDAwMDAwMDAwZjA1NWY1MGYwMDAwMDAwMDFmMjUxNWY2MDAwMDAwZjA2MTY2NjY2MTBmMDAwMGYwNjZmZmZmMTYwZjAwMDBmMGY2ZGZmZDZmMGYwMDAwNmZkZmRmZmRmZGY2MDAwMDZmZGZkMzNkZmRmNjAwMDA2ZmY2ZGRkZDZmZjYwMGYwNjYzZmZmZmZmMzY2MGYwMGZmM2QzNTUzZDNmZjAwMDBkZmZkNTMzNWRmZmQwMDAwZjAzZjMzMzNmMzBmMDAwMGYwMzMzNTUzMzMwZjAwMDBmMGZmZmZmZmZmMGYwMDAwMDBmMDBmZjAwZjAwMDAwMDAwMDAwNTA1MDAwMDAwMDAwMGYwNTVmNTBmMDAwMDAwMDAxZjI1MTVmNjAwMDAwMGYwNjE2NjY2NjEwZjAwMDBmMDY2ZmZmZjE2MGYwMDAwZjBmNmRmZmQ2ZjBmMDAwMDZmZGZkZmZkZmRmNjAwMDA2ZmRmZDMzZGZkZjYwMDAwNmZmNmRkZGQ2ZmY2MDBmMDY2M2ZmZmZmZjM2NjBmMDBmZjMzMzU1M2QzZmYwMDAwZjBmZDUzMzVmZmZkMDAwMGYwZmQzMzMzZjMwZjAwMDBmMDNmMzU1MzMzMGYwMDAwMDBmZmZmZmZmZjBmMDAwMDAwMDAwMGYwMGYwMDAwMDAwMDAwMDUwNTAwMDAwMDAwMDBmMDU1ZjUwZjAwMDAwMDAwMWYyNTE1ZjYwMDAwMDBmMDYxNjY2NjYxMGYwMDAwZjA2NmZmZmYxNjBmMDAwMGYwZjZkZmZkNmYwZjAwMDA2ZmRmZGZmZGZkZjYwMDAwNmZkZmQzM2RmZGY2MDAwMDZmZjZkZGRkNmZmNjAwZjA2NjNmZmZmZmYzNjYwZjAwZmYzZDM1NTMzM2ZmMDAwMGRmZmY1MzM1ZGYwZjAwMDBmMDNmMzMzM2RmMGYwMDAwZjAzMzM1NTNmMzBmMDAwMGYwZmZmZmZmZmYwMDAwMDAwMGYwMGYwMDAwMDAwMA==",
+        "displayName": "princessWalkDown"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
