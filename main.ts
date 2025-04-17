@@ -56,6 +56,7 @@ if (direction == 1) {
     let interactbox = sprites.create(assets.image`myImage`, SpriteKind.Projectile)
     interactbox.lifespan = 500
     interactbox.setPosition(princess.x,princess.y-16)
+    //i've commented below out to make the interactbox visible for testing purposes.
     //interactbox.setFlag(SpriteFlag.Invisible,true)
 }
 if (direction == 2) {
@@ -77,6 +78,7 @@ if (direction == 4) {
     interactbox.setFlag(SpriteFlag.Invisible, true)
 }
 })
-scene.onOverlapTile(SpriteKind.Projectile, assets.tile`red_lever_up`, function (sprite, location) {
-    sprites.destroy(interactbox)
+//this is the part I need help with. it should be triggering but it isnt.
+scene.onOverlapTile(SpriteKind.Projectile, assets.tile`red_lever_up`, function (sprite:Sprite, location:tiles.Location) {
+    princess.sayText(":)")
 })
